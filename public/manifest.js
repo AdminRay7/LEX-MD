@@ -1,11 +1,11 @@
 {
-  "name": "INSIDIOUS Mobile",
-  "short_name": "INSIDIOUS",
+  "name": "LEX-MD Mobile",
+  "short_name": "LEX-MD",
   "start_url": "/mobile",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#ff3366",
+  "background_color": "#070b14",
+  "theme_color": "#00ffcc",
   "icons": [
-    { "src": "/Assets/menu.jpg", "sizes": "512x512", "type": "image/jpeg" }
+    { "src": "/Assets/menu.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
   ]
 }
